@@ -1,7 +1,7 @@
 # AUTHORS: Andrew J. Lefors and Dr. John Swensen
 # Contact: andrew.lefors@wsu.edu
 
-# SLIRP.py (Serial Link Integrated Robot Physics)
+# SLIRP.py (Serial Link Integrated Robot Physics) [Pronounced SLUR-PEE]
 
 ## Overview
 
